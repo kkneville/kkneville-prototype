@@ -124,9 +124,19 @@ body {
 	background-color: #ccc5b9;
 }
 
+.icon {
+	height: 50px;
+	text-align: center;
+}
 
+.iconrow {
+	margin-bottom: -15px;
+}
 
-
+.showcase p {
+	font-weight: bold;
+	padding: 0px 40px;
+}
 
 
 /* ROOT FONT STYLES */
